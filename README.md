@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on [RebalaneNetwork](rebalancefi.xyz)
 
-- 🌱 I’m currently learning **Typescript and NextJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SamIxCode?tab=repositories](https://github.com/SamIxCode?tab=repositories)
 
