@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
 <h3 align="center">A python enthusiast 🐍. Advanced in React⚛️ . Fullstack developer. Also a blockchain and decentralization fan. You might find some solidity here too. 👾</h3>
 
-- 🔭 I’m currently working on [RebalaneNetwork](rebalancefi.xyz)
+- 🔭 I’m currently working on many side projects
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/SamIxCode?tab=repositories](https://github.com/SamIxCode?tab=repositories)
