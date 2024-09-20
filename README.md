@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
-<h3 align="center">A python enthusiast 🐍. Advanced in React⚛️ . Fullstack developer. Also a blockchain and decentralization fan. You might find some solidity here too. 👾</h3>
+<h3 align="center">A python enthusiast 🐍. Advanced in React⚛️ NextJs, and certificed in Solidity . Fullstack developer. Also a blockchain and decentralization fan.👾</h3>
 
-- 🔭 I’m currently working on many side projects
+- 🔭 I’m currently working on some side projects, and some repos that are not public.
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/SamIxCode?tab=repositories](https://github.com/SamIxCode?tab=repositories)
 
-- 📝 I regularly write articles on [https://medium.com/@samuelrybar](https://medium.com/@samuelrybar)
+- 📝 I sometimes write articles on [https://medium.com/@samuelrybar](https://medium.com/@samuelrybar)
 
-- 💬 Ask me about **Python and Backend**
+- 💬 Ask me about **React, Python, Solidity**
 
-- 📫 How to reach me **samuelrybar@icloud.com**
+- 📫 How to reach me **samuelrybar@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
